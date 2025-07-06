@@ -13,7 +13,7 @@
 
 # objective: Connect to MySQL/PostgreSQL DB and perform CRUD.
 
-# Tools : Connect to MySQL/PostgreSQL DB and perform CRUD.
+# Tools : Java, MySQL/PostgreSQL, JDBC driver, VS Code.
 
 Description: A console-based Java application to perform basic **CRUD operations** (Create, Read, Update, Delete) on an 'employees' table using **JDBC and MySQL**.
 
